@@ -5,7 +5,6 @@ import org.springframework.http.HttpStatus;
 
 /**
  * 集成ErrorCode，定性为server异常
- * @author CAIFUCHENG3
  */
 public interface ServerError extends ErrorCode {
 	/**

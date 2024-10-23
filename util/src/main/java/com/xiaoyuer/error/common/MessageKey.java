@@ -8,7 +8,6 @@ import java.util.ResourceBundle;
 
 /**
  * 异常资源值读取
- * @author CAIFUCHENG3
  */
 public interface MessageKey {
     /**

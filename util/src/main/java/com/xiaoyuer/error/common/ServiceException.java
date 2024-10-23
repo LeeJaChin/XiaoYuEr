@@ -3,7 +3,6 @@ package com.xiaoyuer.error.common;
 
 /**
  * 统一服务异常
- * @author CAIFUCHENG3
  */
 public class ServiceException extends RuntimeException {
 
